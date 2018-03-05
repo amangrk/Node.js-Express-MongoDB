@@ -1,1 +1,1 @@
-## Basic Note adding app.
+## Basic Notes adding app.
